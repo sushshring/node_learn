@@ -4,8 +4,12 @@
   "description": "This is a test for how-to-node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js" 
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Sushrut Shringarputale",
+  "repository":"http://github.com/sushshring/node_learn.git",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
